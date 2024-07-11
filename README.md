@@ -1,13 +1,13 @@
 # Setting Up Raspberry Pi Lite with Custom Kernel, Boot Partition, Network Configuration and SSH
 
 ## Table of Contents
-1. [Step 1: Download and Write Raspberry Pi OS Lite to SD Card](#step-1-download-and-write-raspberry-pi-os-lite-to-sd-card)
-2. [Step 2: Prepare the Boot Partition](#step-2-prepare-the-boot-partition)
-3. [Step 3: Replace the Kernel](#step-3-replace-the-kernel)
-4. [Step 4: Prepare the Root Filesystem](#step-4-prepare-the-root-filesystem)
-5. [Step 5: Configure Wi-Fi to Connect on Boot](#step-5-configure-wi-fi-to-connect-on-boot)
-6. [Step 6: Configure SSH](#step-6-configure-ssh)
-7. [Step 7: Boot and Connect](#step-7-boot-and-connect)
+ [Step 1: Download and Write Raspberry Pi OS Lite to SD Card](#step-1-download-and-write-raspberry-pi-os-lite-to-sd-card)
+ [Step 2: Prepare the Boot Partition](#step-2-prepare-the-boot-partition)
+ [Step 3: Replace the Kernel](#step-3-replace-the-kernel)
+ [Step 4: Prepare the Root Filesystem](#step-4-prepare-the-root-filesystem)
+ [Step 5: Configure Wi-Fi to Connect on Boot](#step-5-configure-wi-fi-to-connect-on-boot)
+ [Step 6: Configure SSH](#step-6-configure-ssh)
+ [Step 7: Boot and Connect](#step-7-boot-and-connect)
 
 ## Step 1: Download and Write Raspberry Pi OS Lite to SD Card
 
